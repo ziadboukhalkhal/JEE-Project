@@ -1,4 +1,0 @@
-mes-config-ms.commandes-last=10
-
-management.endpoints.web.exposure.include=*
-management.endpoint.health.show-details=always
